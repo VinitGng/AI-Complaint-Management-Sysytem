@@ -1,0 +1,5 @@
+{
+  "name": "Smart Campus Complaint System",
+  "description": "AI Powered Smart Campus Complaint Management System",
+  "requestFramePermissions": ["camera", "geolocation"]
+}
